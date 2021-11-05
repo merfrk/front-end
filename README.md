@@ -1,1 +1,1 @@
-# front-end
+# patika.dev front-end patikası ödevlerim
